@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Dgc
+        psr4_prefix: Dgc
+        src_path: app
